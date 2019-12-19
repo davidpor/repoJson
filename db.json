@@ -1,4 +1,5 @@
-[
+{
+  "productos": [
   {
     "id": 0,
     "CodProducto": 2080,
@@ -135,3 +136,4 @@
     "desc": "Zapatillas Ignite Puma"
   }
 ]
+}
