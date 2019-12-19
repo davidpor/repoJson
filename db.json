@@ -1,52 +1,137 @@
-{
-  "productos": [
-    {
-      "id": 1,
-      "nombre": "Memoria RAM DDR4 8GB",
-      "marca": "Kingston",
-      "precio": 2500,
-      "modelo": "0X2548754",
-      "img": "Https://algunaurl.com/imagenDelProducto.jpg",
-      "desc": "Memoria RAM para Notebooks DDR4 de 8GB. 1 Año de garantía."
-    },
-    {
-      "id": 2,
-      "nombre": "Placa Video Geforce GTX 1050",
-      "marca": "Intel",
-      "precio": 5000,
-      "modelo": "0X2548754",
-      "img": "Https://algunaurl.com/imagenDelProducto.jpg",
-      "desc": "Descripción del producto"
-    }
-   ],
-   "servicios": [
-      {
-        "id": 1,
-        "nombre": "Reparación Notebook",
-        "precio": 2200,
-        "img": "Https://algunaurl.com/imagenDelServicio.jpg",
-        "desc": "Reparación íntegra de notebooks (Hard y Soft)"
-      },
-      {
-        "id": 2,
-        "nombre": "Reparación PC",
-        "precio": 1500,
-        "img": "Https://algunaurl.com/imagenDelServicio.jpg",
-        "desc": "Reparación íntegra de PC (Hard y Soft)"
-      }
-   ],
-   "posts": [
-       {
-          "id": 1,
-          "title": "Post 1"
-       },
-       {
-          "id": 2,
-          "title": "Post 2"
-       },
-       {
-          "id": 3,
-          "title": "Post 3"
-       }
-     ]
-}
+[
+  {
+    "id": 0,
+    "CodProducto": 2080,
+    "marca": "Adidas",
+    "precio": 4786,
+    "modelo": "force",
+    "img": "https://www.digitalsport.com.ar/files/products/59b6f18cc6059-426200-1200x1200.jpg",
+    "desc": "Zapatillas Force adidas"
+  },
+  {
+    "id": 1,
+    "CodProducto": 2081,
+    "marca": "Tooper",
+    "precio": 5887,
+    "modelo": "Flex",
+    "img": "https://du8tyx4xgi3it.cloudfront.net/103889-thickbox_default/zapatillas-topper-de-lona-nino.jpg",
+    "desc": "Zapatillas Flex Tooper"
+  },
+  {
+    "id": 2,
+    "CodProducto": 2082,
+    "marca": "Puma",
+    "precio": 3876,
+    "modelo": "Ignite",
+    "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+    "desc": "Zapatillas Ignite Puma"
+  },
+  {
+    "id": 3,
+    "CodProducto": 2082,
+    "marca": "Puma",
+    "precio": 3876,
+    "modelo": "Ignite",
+    "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+    "desc": "Zapatillas Ignite Puma"
+  },
+  {
+    "id": 4,
+    "CodProducto": 2082,
+    "marca": "Puma",
+    "precio": 3876,
+    "modelo": "Ignite",
+    "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+    "desc": "Zapatillas Ignite Puma"
+  },
+  {
+    "id": 5,
+    "CodProducto": 2082,
+    "marca": "Puma",
+    "precio": 3876,
+    "modelo": "Ignite",
+    "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+    "desc": "Zapatillas Ignite Puma"
+  },
+  {
+    "id": 6,
+    "CodProducto": 2082,
+    "marca": "Puma",
+    "precio": 3876,
+    "modelo": "Ignite",
+    "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+    "desc": "Zapatillas Ignite Puma"
+  },
+  {
+    "id": 7,
+    "CodProducto": 2082,
+    "marca": "Puma",
+    "precio": 3876,
+    "modelo": "Ignite",
+    "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+    "desc": "Zapatillas Ignite Puma"
+  },
+  {
+    "id": 8,
+    "CodProducto": 2082,
+    "marca": "Puma",
+    "precio": 3876,
+    "modelo": "Ignite",
+    "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+    "desc": "Zapatillas Ignite Puma"
+  },
+  {
+    "id": 9,
+    "CodProducto": 2082,
+    "marca": "Puma",
+    "precio": 3876,
+    "modelo": "Ignite",
+    "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+    "desc": "Zapatillas Ignite Puma"
+  },
+  {
+    "id": 10,
+    "CodProducto": 2082,
+    "marca": "Puma",
+    "precio": 3876,
+    "modelo": "Ignite",
+    "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+    "desc": "Zapatillas Ignite Puma"
+  },
+  {
+    "id": 8,
+    "CodProducto": 2082,
+    "marca": "Puma",
+    "precio": 3876,
+    "modelo": "Ignite",
+    "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+    "desc": "Zapatillas Ignite Puma"
+  },
+  {
+    "id": 8,
+    "CodProducto": 2082,
+    "marca": "Puma",
+    "precio": 3876,
+    "modelo": "Ignite",
+    "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+    "desc": "Zapatillas Ignite Puma"
+  },
+  {
+    "id": 0,
+    "CodProducto": 2080,
+    "marca": "Adidas",
+    "precio": 4786,
+    "modelo": "force",
+    "img": "https://www.digitalsport.com.ar/files/products/59b6f18cc6059-426200-1200x1200.jpg",
+    "desc": "Zapatillas Force adidas"
+  },
+  {
+    "id": 8,
+    "CodProducto": 2082,
+    "marca": "Puma",
+    "precio": 3876,
+    "modelo": "Ignite",
+    "img": "https://ferreira.vteximg.com.br/arquivos/ids/306258-1000-1000/pu_19300104.jpg?v=637015595333930000",
+    "desc": "Zapatillas Ignite Puma"
+  }
+]
